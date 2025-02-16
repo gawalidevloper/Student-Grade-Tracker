@@ -1,2 +1,2 @@
-# Student-Grade-Calculator
-A Java-based Student Grade Calculator. Students have to enter the number of subjects and the marks obtained in each respective subject.
+# Student-Grade-Tracker
+A Java-based Student Grade Tracker. Users have to enter the number of students and the obtained Grades.
